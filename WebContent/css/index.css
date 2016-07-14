@@ -1,0 +1,20 @@
+.button{
+	background-color: #70341d;
+	font-size: 20px;
+	width: 100px;
+	text-align:center;
+}
+
+.loginbutton{
+	display:inline-block;
+
+}
+
+.registerbutton{
+	display:inline-block;
+}
+
+.whitespace{
+	height:20px;
+	width:100%;
+}
